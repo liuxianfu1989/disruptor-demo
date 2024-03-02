@@ -1,4 +1,4 @@
-package com.nico.disruptor;
+package com.nico.disruptor.v1;
 
 public class LongEvent {
     private long value;
